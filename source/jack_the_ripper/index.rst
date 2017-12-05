@@ -13,11 +13,9 @@ Quick Facts
   * The Jack the Ripper was never caught *and could still be roaming the London streets*
 
   * Jack the Ripper was the first famous Ripper; someone who is excellent at killing with a knife. 
-  * Jack the Ripper’s story has inspired many famous horror movies. One of the most famous being Dr. Jekyll and
-  	 Mr. Hyde
+  * Jack the Ripper’s story has inspired many famous horror movies. One of the most famous being Dr. Jekyll and Mr. Hyde
 
-  * The real identity of Jack the Ripper still has not been solved. For more information on the suspects visit
-  	 `Jack the Ripper”_Suspects: https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
+  * The real identity of Jack the Ripper still has not been solved. For more information on the suspects visit `Jack the Ripper”_Suspects: https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
 
 
 Suspects
