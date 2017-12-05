@@ -2,9 +2,10 @@ Theodore Robert Bundy(Cowell) A.K.A.Ted Bundy
 =============================================
 Quick Facts
 -----------
-* November 24, 1946-January, 24, 1989
-* confessed to 30 murders, but there could be more
-* active in South and West U.S.A.
+
+  * November 24, 1946-January, 24, 1989
+  * confessed to 30 murders, but there could be more
+  * active in South and West U.S.A.
 
 General Overview
 ----------------

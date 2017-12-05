@@ -10,6 +10,16 @@ Ahmad Suradji is a serial killer from Indonesia. He killed 42 women between the 
 Quick Facts
 ~~~~~~~~~~~
 
+<<<<<<< HEAD
+  *Ahmad Suradji claims he learned that it okay to kill people from his father. 
+
+  *He also claimed that after his father’s, his father’s spirit told him to kill 70 woman and point their bodies to his house so he would never die. 
+=======
 * Ahmad Suradji claims he learned that it okay to kill people from his father. 
 
 * He also claimed that after his father’s, his father’s spirit told him to kill 70 women and point their bodies to his house so he would never die. 
+<<<<<<< HEAD
+=======
+>>>>>>> b4a0d5127e8e0b660f8f0748fb9cd92a496a5d1a
+
+>>>>>>> 60302ec8437463e87e0a683ff08c51d454c86a98
