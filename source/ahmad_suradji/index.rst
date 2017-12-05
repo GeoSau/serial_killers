@@ -1,3 +1,4 @@
+.. //Ethan Woodruff//
 Ahmad Suradji
 -------------
 
@@ -12,4 +13,3 @@ Quick Facts
 * Ahmad Suradji claims he learned that it okay to kill people from his father. 
 
 * He also claimed that after his father’s, his father’s spirit told him to kill 70 women and point their bodies to his house so he would never die. 
-
