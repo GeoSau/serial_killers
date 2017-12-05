@@ -8,15 +8,9 @@ Luis Garavito, also known as **The Beast** or **Goofy**, was the most infamous s
 
 Quick Facts
 ~~~~~~~~~~~
-<<<<<<< HEAD
+
   * The way Luis Garavito would be able to rape these kids is by disguising himself as many different people and
   	offering the kids candy or jobs. He would eventually get the kids trust then he would take them on a long walk so the kid was tired then he would attack the kid. 
 
   * Luis Garavito was arrested for raping a boy and during that prison sentence he confessed all his crimes and
   	drew maps of where the bodies of the boys that he killed were located. 
-=======
-
-* The way Luis Garavito would be able to rape these kids is by disguising himself as many different people and offering the kids candy or jobs. He would eventually get the kids trust then he would take them on a long walk so the kid was tired then he would attack the kid. 
-
-* Luis Garavito was arrested for raping a boy and during that prison sentence he confessed all his crimes and drew maps of where the bodies of the boys that he killed were located. 
->>>>>>> b4a0d5127e8e0b660f8f0748fb9cd92a496a5d1a

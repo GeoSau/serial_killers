@@ -9,7 +9,6 @@ Jack the ripper was a notorious serial killer in the poor areas of London in the
 Quick Facts
 ~~~~~~~~~~~
 
-<<<<<<< HEAD
   * The Jack the Ripper was never caught *and could still be roaming the London streets*
 
   * Jack the Ripper was the first famous Ripper; someone who is excellent at killing with a knife. 
@@ -18,15 +17,7 @@ Quick Facts
 
   * The real identity of Jack the Ripper still has not been solved. For more information on the suspects visit
   	`Jack the Ripper”_Suspects: https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
-=======
-* The Jack the Ripper was never caught *and could still be roaming the London streets*
 
-* Jack the Ripper was the first famous Ripper; someone who is excellent at killing with a knife. 
-
-* Jack the Ripper’s story has inspired many famous horror movies. One of the most famous being Dr. Jekyll and Mr. Hyde
-
-* The real identity of Jack the Ripper still has not been solved. For more information on the suspects visit `Jack the Ripper”_Suspects: https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
->>>>>>> b4a0d5127e8e0b660f8f0748fb9cd92a496a5d1a
 
 Suspects
 ~~~~~~~~
