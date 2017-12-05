@@ -8,7 +8,7 @@ Welcome to Serial Killers's documentation!
 
    ahmad_suradji/index.rst
    alexander_pichushkin/index.rst
-   andrei_chikatilo/indes.rst
+   andrei_chikatilo/index.rst
    casanova_killer/index.rst
    charles_cullen/index.rst
    dennis_rader/index.rst
@@ -17,5 +17,5 @@ Welcome to Serial Killers's documentation!
    luis_garavito/index.rst
    patrick_kearney/index.rst
    ted_bundy/index.rst
-   tsutomu_miyuzaki/index.rst
+   tsutomu_miyazaki/index.rst
    zodiac_killer/index.rst
