@@ -11,7 +11,8 @@ Cause of Death Still living
 ============== ============================
 
 
-* number of victims and date of first are estimated
+  *number of victims estimated
+  *date of first killing unknown
 
 Charles Cullen, born February 22, 1960, was the youngest of eight children. Cullen described his own childhood as "miserable." He lost his father when he was only seven months old. He attempted suicide when he was nine, which was the first of many time that he would try to kill himself. He then lost his mother in a car accident when he was 17. He then dropped out of school, joined the Navy where he started to show signs of instability in his mental state. In the coming years, he would try seven times to commit suicide before receiving a medical discharge.
 

@@ -2,9 +2,9 @@ Tsutomu Miyazaki A.K.A. The Human Dracula A.K.A. The Little GIrl Murderer
 =========================================================================
 Quick Facts
 -----------
-*August 21, 1962-June 17, 2008
-*4 confirmed victims
-*active in Tokyo, Japan
+  * August 21, 1962-June 17, 2008
+  * 4 confirmed victims
+  * active in Tokyo, Japan
 
 General Overview
 ----------------
