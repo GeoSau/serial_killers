@@ -12,3 +12,6 @@ Welcome to Serial Killers's documentation!
 
 
    andrei_chikatilo/index
+   charles_cullen/index
+   dennis_rader/index
+   patrick_kearney/index
