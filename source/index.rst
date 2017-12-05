@@ -11,10 +11,7 @@ Welcome to Serial Killers's documentation!
    :caption: Contents:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   andrei_chikatilo/index
+   charles_cullen/index
+   dennis_rader/index
+   patrick_kearney/index
