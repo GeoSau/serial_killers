@@ -2,9 +2,15 @@ Zodiac Killer
 =============
 Quick Facts
 -----------
+<<<<<<< HEAD
   * no one was ever identified as the Zodiac
   * claimed to have murdered 37, 7 confirmed
   * active in California
+=======
+* no one was ever identified as the Zodiac
+* claimed to have murdered 37, 7 confirmed
+* active in California
+>>>>>>> b4a0d5127e8e0b660f8f0748fb9cd92a496a5d1a
 
 General Overview
 ----------------

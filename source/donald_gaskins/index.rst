@@ -2,9 +2,15 @@ Donald Henry Gaskins A.K.A. The Hitchhikers’ Killer A.K.A. Pee-Wee
 ==================================================================
 Quick Facts
 -----------
+<<<<<<< HEAD
   * March 13, 1933-September 6,1991
   * claimed to have murdered 100+ people, found guilty of 8 murders
   * active in South Carolina
+=======
+* March 13, 1933-September 6,1991
+* claimed to have murdered 100+ people, found guilty of 8 murders
+* active in South Carolina
+>>>>>>> b4a0d5127e8e0b660f8f0748fb9cd92a496a5d1a
 
 General Overview
 ----------------
