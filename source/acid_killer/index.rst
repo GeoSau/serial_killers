@@ -36,4 +36,9 @@ Quick Facts
 
 =======================================================
 
+
+Here is a link to more info on the `Acid Bath Killer`_
+
+.. _Acid Bath Killer: https://en.wikipedia.org/wiki/John_George_Haigh
+
 Page Made by George

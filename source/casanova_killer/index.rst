@@ -33,4 +33,9 @@ Quick Facts
 
 =======================================================
 
+
+Here is a link to more info on the `Casanova Killer`_
+
+.. _Casanova Killer: https://en.wikipedia.org/wiki/William_Bonin
+
 Page Made by George
