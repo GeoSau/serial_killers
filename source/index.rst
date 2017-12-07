@@ -7,9 +7,12 @@ Welcome to Serial Killers's documentation!
    :caption: Contents:
 
    ahmad_suradji/index.rst
+   lobster_boy/index.rst
    alexander_pichushkin/index.rst
    andrei_chikatilo/index.rst
    casanova_killer/index.rst
+   freeway_killer/index.rst
+   acid_killer/index.rst
    charles_cullen/index.rst
    dennis_rader/index.rst
    donald_gaskins/index.rst
