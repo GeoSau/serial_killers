@@ -20,11 +20,11 @@ goal.
 Quick Facts
 ~~~~~~~~~~~
 
-  *Alexander Pichushkin mostly killed homeless men after he got them drunk with
-   vodka. 
-  *He received the name the Bitsa Killer when people kept finding bodies in
-   Bitsa Park. 
-  *His signature way of killing a person was 64 hammer blows to the head. 
-   Then sticking a vodka bottle into their head or throat. 
-  *The only other way he killed a person was by throwing them into an
-   overflowing sewer after getting them drunk. 
+* Alexander Pichushkin mostly killed homeless men after he got them drunk with
+  vodka. 
+* He received the name the Bitsa Killer when people kept finding bodies in
+  Bitsa Park. 
+* His signature way of killing a person was 64 hammer blows to the head. 
+  Then sticking a vodka bottle into their head or throat. 
+* The only other way he killed a person was by throwing them into an
+  overflowing sewer after getting them drunk. 
