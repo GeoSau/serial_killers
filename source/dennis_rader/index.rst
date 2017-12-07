@@ -10,9 +10,9 @@ Nickname   	   BTK killer
 Cause of Death Still living
 ============== ============================
 
-.. fig:: dennis_rader.jpg
+.. figure:: dennis_rader.jpg
 
-   https://www.biography.com/.image/t_share/MTE5NDg0MDU0NzY3MjQwNzE5/dennis-rader-241487-1-402.jpg
+    https://www.biography.com/.image/t_share/MTE5NDg0MDU0NzY3MjQwNzE5/dennis-rader-241487-1-402.jpg
 
 Dennis Rader, born in 1945, lived his entire life in Wichita, Kansas. He led a 
 normal life. However, he would go on to lead a double life, a devoted family man
