@@ -24,9 +24,9 @@ Chikatilo's crimes are believed to have been a form of sexual release, as the
 hydrocephalus hindered his ability to maintain an erection and staining his 
 sexual relations. His victims were often young, found and befriended at bus 
 stops and train stations before being led to their deaths in nearby wooded areas. 
-He used a knife to mutilate his victims, often removing sexual organs and or eyes.
+He used a knife to mutilate his victims, often removing sexual organs and/or eyes.
 
 During his court case in April 1992, he was held in an iron cage, separating him 
-from the family of his many victims. He was found guilty of 52 of 53 murders 
-that he was charged with. The sentence for each was death and he was executed 
+from the family of his many victims. He was found guilty of 52 of the 53 murders 
+he was charged with. The sentence for each murder was death and he was executed 
 on Valentine's Day in 1994.
