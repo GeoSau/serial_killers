@@ -12,7 +12,9 @@ Cause of Death Still living
 
 
 
-Kearney, born in 1940, had a relatively normal childhood. Being a thin and sickly-looking child, he was the victim of bullying. Compared to many other serial killers, this isn't anything particularly extraordinary.
+Kearney, born in 1940, had a relatively normal childhood. Being a thin and 
+sickly-looking child, he was the victim of bullying. Compared to many other 
+serial killers, this isn't anything particularly extraordinary.
 
 His victims were young male hitch-hikers and young men from gay bars. He would pick them up and shoot them without warning. He was a necrophiliac, and would take off with the bodies, dismember them, and toss them into the desert or along the freeway. He usually wrapped bodies in in garbage bags, leading to his nickname the serial killer.
 
