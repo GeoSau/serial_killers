@@ -18,11 +18,11 @@ released is 2029 and it could be earlier if he has good behavior.
 Quick Facts
 ~~~~~~~~~~~
 
-* The way Luis Garavito would be able to rape these kids is by disguising 
-  himself as many different people and
-  offering the kids candy or jobs. He would eventually get the kids' trust. Then 
-  he would take them on a long walk so the kid was tired, he could attack
-  the kid. 
-* Luis Garavito was arrested for raping a boy and during that prison sentence 
-  he confessed all his crimes and
-  drew maps of where the bodies of the boys that he had killed were located. 
+*  The way Luis Garavito would be able to rape these kids is by disguising 
+   himself as many different people and
+   offering the kids candy or jobs. He would eventually get the kids' trust. Then 
+   he would take them on a long walk so the kid was tired, he could attack
+   the kid. 
+*  Luis Garavito was arrested for raping a boy and during that prison sentence 
+   he confessed all his crimes and
+   drew maps of where the bodies of the boys that he had killed were located. 

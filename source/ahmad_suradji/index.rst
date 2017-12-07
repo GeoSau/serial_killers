@@ -20,6 +20,6 @@ Ahmad Suradji was executed in 2008 and his wife is still waiting for her death.
 Quick Facts
 ~~~~~~~~~~~
 
-* Ahmad Suradji claims he learned that it okay to kill people from his father. 
-* He also claimed that after his father’s death, his father’s spirit told him to
-  kill 70 women and point their bodies to his house so he would never die. 
+*  Ahmad Suradji claims he learned that it okay to kill people from his father. 
+*  He also claimed that after his father’s death, his father’s spirit told him to
+   kill 70 women and point their bodies to his house so he would never die. 
