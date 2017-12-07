@@ -21,6 +21,8 @@ He also sent mementos from the crime scenes with some of his other letters.
 He, or someone claiming to be him, also contacted the police department via a 
 phone call and even arranged a meeting with one of the lawyers on the case,
 which he never followed through with. All of his correspondences were signed 
-off with the following symbol.
+off with the following symbol. For more information check out this link!
+
+.. _Wikipedia: https://en.wikipedia.org/wiki/Zodiac_Killer
 
 .. image:: zodiac_symbol.png
