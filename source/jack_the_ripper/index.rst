@@ -24,8 +24,9 @@ Quick Facts
   * Jack the Ripper’s story has inspired many famous horror movies. One of the 
     most famous being Dr. Jekyll and Mr. Hyde.
   * The real identity of Jack the Ripper still has not been solved. For more 
-    information on the suspects visit `Jack the Ripper”_Suspects:
-    https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
+    information on the suspects visit:
+    
+.. _Wikipedia: https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects
 
 
 Suspects
