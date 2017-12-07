@@ -34,4 +34,5 @@ history, though it is unknown exactly how many people he killed. He was arrested
 and convicted in 2003 and now serves a life sentence.
 
 Cullen was allowed to donate a kidney to the relative of a former girlfriend in 
-2006. A news article on it from .. _NBC: http://www.nbcnews.com/id/11899878/ns/us_news-crime_and_courts/t/serial-killer-nurse-allowed-donate-kidney/#.WilOY1WnFpg
+2006. A news article on it from 
+.. _NBC: http://www.nbcnews.com/id/11899878/ns/us_news-crime_and_courts/t/serial-killer-nurse-allowed-donate-kidney/#.WilOY1WnFpg
