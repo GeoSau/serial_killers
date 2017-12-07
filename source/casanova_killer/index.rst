@@ -7,7 +7,7 @@ Casanova Killer
 
 General Information
 ~~~~~~~~~~~~~~~~~~~
-Paul John Knowles also known as the Casanova Killer,. Knowles used his charm to 
+Paul John Knowles also known as the Casanova Killer. Knowles used his charm to 
 seduce people and sadly make them his victims. He killed a total of 18 people, 
 although the count might be more. In fact, he states that he killed many more, 
 and we will never know.  His victims included men, women and children: so no 
