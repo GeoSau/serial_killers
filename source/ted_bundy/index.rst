@@ -1,6 +1,7 @@
 .. //Hannahlynn Heinen//
 Theodore Robert Bundy(Cowell) A.K.A.Ted Bundy
 =============================================
+
 Quick Facts
 -----------
 
@@ -11,7 +12,7 @@ Quick Facts
 General Overview
 ----------------
 Theodore Bundy was born out of wedlock and raised by his grandparents, which he 
-was told where his parents. He only found out the truth when he discovered his 
+was told were his parents. He only found out the truth when he discovered his 
 birth certificate. His mother later married and Bundy was adopted. Other than 
 this, Bundy’s childhood was relatively uneventful. Bundy was typically described
 as well-liked, kind, or charismatic. He was also smart, even making it into law 

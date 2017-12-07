@@ -1,6 +1,6 @@
 
-Welcome to Serial Killers's documentation!
-==========================================
+16 Deadly Serial Killers
+========================
 
 .. toctree::
    :maxdepth: 2
