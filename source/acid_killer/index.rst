@@ -1,6 +1,12 @@
 Acid Bath Killer!
 =================
 
+
+.. image:: acid_killer.png
+
+
+General Information
+~~~~~~~~~~~~~~~~~~~
 John George Haigh was also known as the ‘Acid Bath Murderer’ and operated during
 the 1940s. He was held guilty for the murders of 6 people, although he claimed 
 to have killed more than that. He was a professional conman, he used his charm 
@@ -16,3 +22,18 @@ he was arrested for fraud. He was also involved in a car crash to which right
 after he began his killing. He ended up bumping into an old friend, which he 
 ended up hitting on the head. After he drained his blood into gallon jugs 
 which he would drink the blood. 
+
+
+=======================================================
+Quick Facts
+=======================================================
+* Haigh's parents belonged to a religious sect of particular zeal: The Plymouth 
+	Brethren.
+* 10th August 1949, Haigh was hanged by Albert Pierrepoint at Wandsworth prison
+* John George Haigh was a bright student who won scholarships to Wakefield 
+	Grammar School
+* Was born July 24, 1909, Stamford, Lincolnshire, England
+
+=======================================================
+
+Page Made by George
