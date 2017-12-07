@@ -24,7 +24,8 @@ He, or someone claiming to be him, also contacted the police department via a
 phone call and even arranged a meeting with one of the lawyers on the case,
 which he never followed through with. All of his correspondences were signed 
 off with the following symbol. For more information check out this link!
+`Zodiac Killer`_
 
-.. _Wikipedia: https://en.wikipedia.org/wiki/Zodiac_Killer
+.. _Zodiac Killer: https://en.wikipedia.org/wiki/Zodiac_Killer
 
 .. image:: zodiac_symbol.png
