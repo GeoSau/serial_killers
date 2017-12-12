@@ -7,10 +7,10 @@ Acid Bath Killer!
 
 General Information
 ~~~~~~~~~~~~~~~~~~~
-John George Haigh was also known as the ‘Acid Bath Murderer’ and operated during
-the 1940s. He was held guilty for the murders of 6 people, although he claimed 
-to have killed more than that. He was a professional conman, he used his charm 
-to lure specifically wealthy people to murder them and take from them. He 
+John George Haigh was also known as the *‘Acid Bath Murderer’* and operated 
+during the 1940s. He was held guilty for the murders of 6 people, although he 
+claimed to have killed more than that. He was a professional conman, he used his
+charm to lure specifically wealthy people to murder them and take from them. He 
 usually to possessions and things to sell later. Later he would dissolve their 
 bodies in Sulphur acid then forge papers to sell their possessions and collect 
 their life savings. He was sentenced to death and hanged in 1949. He was born 
@@ -29,7 +29,8 @@ Quick Facts
 =======================================================
 * Haigh's parents belonged to a religious sect of particular zeal: The Plymouth 
 	Brethren.
-* 10th August 1949, Haigh was hanged by Albert Pierrepoint at Wandsworth prison
+* 10th August 1949, Haigh was **hanged** by Albert Pierrepoint at Wandsworth 
+	prison
 * John George Haigh was a bright student who won scholarships to Wakefield 
 	Grammar School
 * Was born July 24, 1909, Stamford, Lincolnshire, England

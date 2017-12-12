@@ -7,7 +7,7 @@ Killer Lobster Boy!
 
 General Information
 ~~~~~~~~~~~~~~~~~~~
-Grady Stiles also known as ‘The Lobster Boy,’ was born in Pittsburg. He was 
+Grady Stiles also known as *‘The Lobster Boy,’* was born in Pittsburg. He was 
 part of the side show performing during carnival season. He was a performer 
 because of his deformities. He had ectrodactyly, which was when the toes would 
 combine to form lobster like claws, this affected both his hands and his feet. 
@@ -27,7 +27,7 @@ even though at a physical disadvantage, killed the boyfriend.
 Quick Facts
 =======================================================
 * Maria, and her son-in-law Harry Newman, hired a 19-year-old sideshow performer
-	 to kill Stiles for $1500
+	 to kill Stiles for **$1500**
 * Stiles shot and killed his oldest daughter’s fiance on the eve of their 
 	wedding
 * Grady was married twice and had four children
